@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **clean architecture,micro-service,docker**
+- 🌱 I’m currently Working on ** A social media project using MEAN stack,Clean architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shamilchennara84](https://github.com/shamilchennara84)
 
