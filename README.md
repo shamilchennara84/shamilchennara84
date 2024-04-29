@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently Working on ** A social media project using MEAN stack,Clean architecture**
+- 🌱 I’m currently Working on ** passForge a mini MEAN stack project for password generation and storage**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shamilchennara84](https://github.com/shamilchennara84)
 
