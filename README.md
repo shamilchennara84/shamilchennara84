@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently Working on ** passForge a mini MEAN stack project for password generation and storage**
+- 🌱 I’m currently Learning ** NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shamilchennara84](https://github.com/shamilchennara84)
 
